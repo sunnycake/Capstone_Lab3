@@ -16,6 +16,7 @@ def display_banner():
     msg = "AWESOME camelCaseGenerator PROGRAM"
     stars = "*" * len(msg)
     print(f"\n {stars} \n {msg} \n {stars}\n")
+    print("Instructions: Enter a sentence to see camelcase change. ")
 
 
 def main():
